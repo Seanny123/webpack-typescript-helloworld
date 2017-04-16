@@ -22,6 +22,7 @@ If you know JavaScript, but you want to start with TypeScript in a sane developm
 - `tsconfig.json` configures the TypeScript compiler `tsc`
 - `webpack.config.js` configures WebPack somehow? (Work In Progress)
 - `webpack.debug.js` configures WebPack somehow? (Work In Progress)
+- `typings.json` file that will contain information to JavaScript modules
 
 Because you can't comment JSON files, I've reproduced the JSON files here with comments.
 
