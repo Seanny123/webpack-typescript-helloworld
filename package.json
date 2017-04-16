@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Hello TypeScript!",
   "author": "Your Name",
-  "license": "Free for non-commercial use",
+  "license": "MIT License",
   "main": "dist/hello.js",
   "repository": {
       "type": "git",
