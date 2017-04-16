@@ -1,0 +1,13 @@
+# Node JS
+node_modules/
+
+# TypeScript
+typings/
+nengo_gui/static/**/*.js
+nengo_gui/static/**/*.js.map
+
+# IDE related files
+.vscode/
+
+# WebPack
+dist/*
