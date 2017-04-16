@@ -8,6 +8,11 @@ If you know JavaScript, but you want to start with TypeScript in a sane developm
 - `ts-loader` to automatically reload the files you edit
 - `typings` to get type information for JavaScript packages (in this case `D3.js`)
 
+# Not covered in this tutorial/repository
+
+- How to deploy an application
+- How to run unit tests
+
 # Installation proceedure
 
 1. `yarn` 
@@ -84,3 +89,7 @@ Because you can't comment JSON files, I've reproduced the JSON files here with c
             "node_modules"
         ]
     }
+
+# Why did you choose these tools?
+
+They seemed to be the easiest tools to get started with, while also giving you a foundation for further exploration, if desired.
